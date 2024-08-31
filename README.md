@@ -9,4 +9,4 @@ This project is a Python-based application designed to emulate some basic image 
 - **Array Operations:** Handles image data efficiently using `numpy`.
 
 ## Demo - <br>
-![](Heart crown.jpg)
+![](Heartcrown.jpg)
